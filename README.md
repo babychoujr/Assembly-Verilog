@@ -1,2 +1,3 @@
 # Assembly/Verilog
- Contains Code For Assembly and Verilog
+1 bit ALU
+A sudoku solver in RISC-V
